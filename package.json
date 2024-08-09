@@ -1,0 +1,21 @@
+{
+  "name": "gold-silver-price-api",
+  "version": "1.0.0",
+  "description": "gold and silver price API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "rajan choksi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "gold-silver-price-api": "file:",
+    "webpack": "^5.93.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
