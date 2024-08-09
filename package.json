@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "main": "goldandsilver.api.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT",
+  "author": "Rajan choksi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajanchoksi79/Gold-and-silver-price-API"
+  }
+}
